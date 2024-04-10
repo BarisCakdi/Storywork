@@ -6,7 +6,7 @@
         {
 
             Console.WriteLine("World of Warcraft: Kayıp Hazine!");
-            Console.Write("Race seçimi = Horde(H)/Alliance(A):" );
+            Console.Write("Taraf seçimi = Horde(H)/Alliance(A):" );
             string answer = Console.ReadLine();
             if (answer == "h" || answer == "H")
             {
@@ -17,7 +17,7 @@
                 Console.ReadLine();
                 Console.Clear();
                 Console.WriteLine("Şimdi savaş çadırından çıktın ve bir yol ayrımına geldin");
-                Console.Write("Kuytu Orman(O)/Vadi(V): ");
+                Console.Write("Kuytu Orman(O)/Derin Vadi(V): ");
                 string O = Console.ReadLine();
                 if (O == "O" || O == "o" )
                 {
@@ -28,7 +28,7 @@
                     if (answer1 == "s" || answer1 == "S")
                     {
                         Console.Clear();
-                        Console.WriteLine("Örümceği yok ettin ve değerli hazinesine ulaştın artık daha güçlüsün!");
+                        Console.WriteLine("Örümceği alt edip değerli hazinesine ulaştın, artık daha güçlüsün!");
                         Console.ReadLine();
                         Console.Clear();
                         Console.WriteLine("Kuytu ormanı geçmeyi başardın tebrikler savaşçı");
@@ -51,7 +51,7 @@
                     Console.WriteLine("Vadiden geçerken 'Alliance' saldırısına uğradın");
                     Console.ReadLine() ;
                     Console.Clear();
-                    Console.WriteLine("Horde yardımına koştu ve düşmanı mağlup etmeyi başardınız. Destek birlik ile devam(D)/Tek başına(T)?");
+                    Console.WriteLine("Horde yardımına koştu ve düşmanı mağlup etmeyi başardınız. Destek birlik ile devam(D)/Tek başına devam(T)?");
                     string answer2 = Console.ReadLine();
                     if(answer2 == "D" || answer2 == "d")
                     {
@@ -63,7 +63,7 @@
                     else
                     {
                         Console.Clear();
-                        Console.WriteLine("Daha dikkatli bir şekilde vadide ilerleyip değerli zırh ve kılıç buldun");
+                        Console.WriteLine("Daha dikkatli bir şekilde derin vadide ilerleyip değerli zırh ve kılıç buldun");
                         Console.ReadLine();
                         Console.Clear();
                         Console.WriteLine("Artık 'Warsong Gulch' bölgesine ulaştın ve dostlarına yardım etmeye hazırsın. Bol şans! ");
