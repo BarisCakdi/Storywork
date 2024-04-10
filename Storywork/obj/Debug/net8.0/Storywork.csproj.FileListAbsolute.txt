@@ -1,0 +1,14 @@
+C:\Works\Storywork\bin\Debug\net8.0\Storywork.exe
+C:\Works\Storywork\bin\Debug\net8.0\Storywork.deps.json
+C:\Works\Storywork\bin\Debug\net8.0\Storywork.runtimeconfig.json
+C:\Works\Storywork\bin\Debug\net8.0\Storywork.dll
+C:\Works\Storywork\bin\Debug\net8.0\Storywork.pdb
+C:\Works\Storywork\obj\Debug\net8.0\Storywork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Works\Storywork\obj\Debug\net8.0\Storywork.AssemblyInfoInputs.cache
+C:\Works\Storywork\obj\Debug\net8.0\Storywork.AssemblyInfo.cs
+C:\Works\Storywork\obj\Debug\net8.0\Storywork.csproj.CoreCompileInputs.cache
+C:\Works\Storywork\obj\Debug\net8.0\Storywork.dll
+C:\Works\Storywork\obj\Debug\net8.0\refint\Storywork.dll
+C:\Works\Storywork\obj\Debug\net8.0\Storywork.pdb
+C:\Works\Storywork\obj\Debug\net8.0\Storywork.genruntimeconfig.cache
+C:\Works\Storywork\obj\Debug\net8.0\ref\Storywork.dll
